@@ -1,6 +1,6 @@
-(ns airflights-clojure.core)
+(ns airflights-clojure.math)
 
-((defn -main
+((defn foo-main
    "I don't do a whole lot."
    [& args]
    (println "Hello, Worldy!")))
