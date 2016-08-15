@@ -15,7 +15,8 @@
                 (json-response {"hello" "world"}))
 
            (PUT "/" [name]
-                (json-response {"hello" name})))
+                (json-response {"hello" name}))
+           )
 
 (def app
   (-> handler
