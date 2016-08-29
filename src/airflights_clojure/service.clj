@@ -1,23 +1,12 @@
 (ns
   airflights_clojure.service
-
   (:use compojure.core)
-  (:use ring.middleware.json-params)
-  (:require [clj-json.core :as json]))
+  (:require [compojure.handler :as handler]
+            [compojure.route :as route]))
 
-(defn json-response [data & [status]]
-  {:status (or status 200)
-   :headers {"Content-Type" "application/json"}
-   :body (json/generate-string data)})
-
-(defroutes handler
-           (GET "/" []
-                (json-response {"hello" "world"}))
-
-           (PUT "/" [name]
-                (json-response {"hello" name})))
+(defroutes app-routes
+           (GET "/" [] "This is the future service")
+           (route/not-found "Not Found"))
 
 (def app
-  (-> handler
-      wrap-json-params))
-
+  (handler/site app-routes))

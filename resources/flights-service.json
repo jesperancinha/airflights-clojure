@@ -1,0 +1,126 @@
+{
+  "flights": [
+    {
+      "name": "Drone flight",
+      "description": "An overview over Hilversum",
+      "remarks": "It was a clowdy day and it was difficult to maneuver the dron but we made it!",
+      "location": [
+        {
+          "locale": "Hilversum",
+          "details": null
+        }
+      ],
+      "from": {
+        "lat": 1.2,
+        "lon": 1.2,
+        "time": "1997-07-16T19:20+01:00"
+      },
+      "to": {
+        "lat": 1.4,
+        "lon": 1.4,
+        "time": "1997-07-16T19:20+01:00"
+      },
+      "points": [
+        {
+          "lat": 1.5,
+          "lon": 1.5,
+          "altitude": 1.5,
+          "weather": "CLOUDY",
+          "moisture": 1234.56,
+          "wind": {
+            "direction": 12,
+            "speed": 123
+          },
+          "time": "1997-07-16T19:20+01:00"
+        },
+        {
+          "lat": 1.6,
+          "lon": 1.6,
+          "altitude": 1.5,
+          "weather": "SUNNY",
+          "moisture": 1234.56,
+          "wind": {
+            "direction": 12,
+            "speed": 123
+          },
+          "time": "1997-07-16T19:20+01:00"
+        },
+        {
+          "lat": 1.7,
+          "lon": 1.7,
+          "altitude": 1.5,
+          "weather": "STORM",
+          "moisture": 1234.56,
+          "wind": {
+            "direction": 12,
+            "speed": 123
+          },
+          "time": "1997-07-16T19:20+01:00"
+        }
+      ]
+    },
+    {
+      "name": "My private jet flight",
+      "description": "An overview over Utrecht",
+      "remarks": "It was a clowdy day and it was difficult to maneuver the dron but we made it!",
+      "location": [
+        {
+          "locale": "Haarlem",
+          "details": "everywhere"
+        },
+        {
+          "locale": "Scheveningen",
+          "details": "the beach"
+        }
+      ],
+      "from": {
+        "lat": 1.2,
+        "lon": 1.2,
+        "time": "1997-07-16T19:20+01:00"
+      },
+      "to": {
+        "lat": 1.4,
+        "lon": 1.4,
+        "time": "1997-07-16T19:20+01:00"
+      },
+      "points": [
+        {
+          "lat": 1.5,
+          "lon": 1.5,
+          "altitude": 1.5,
+          "weather": "CLOUDY",
+          "moisture": 1234.56,
+          "wind": {
+            "direction": 12,
+            "speed": 123
+          },
+          "time": "1997-07-16T19:20+01:00"
+        },
+        {
+          "lat": 1.6,
+          "lon": 1.6,
+          "altitude": 1.5,
+          "weather": "SUNNY",
+          "moisture": 1234.56,
+          "wind": {
+            "direction": 12,
+            "speed": 123
+          },
+          "time": "1997-07-16T19:20+01:00"
+        },
+        {
+          "lat": 1.7,
+          "lon": 1.7,
+          "altitude": 1.5,
+          "weather": "STORM",
+          "moisture": 1234.56,
+          "wind": {
+            "direction": 12,
+            "speed": 123
+          },
+          "time": "1997-07-16T19:20+01:00"
+        }
+      ]
+    }
+  ]
+}

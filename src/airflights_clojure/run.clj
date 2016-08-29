@@ -4,5 +4,5 @@
   (require [airflights_clojure.service :as service])
 
   )
-(defn -main [x]
+(defn -main []
   (run-jetty #'service/app {:port 8080}))
