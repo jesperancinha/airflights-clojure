@@ -1,6 +1,6 @@
 # airflights-clojure
 
-[![Generic badge](https://img.shields.io/static/v1.svg?label=GitLab&message=Airflights%20Clojure&color=informational)](https://github.com/jesperancinha/airflights-clojure)
+[![Generic badge](https://img.shields.io/static/v1.svg?label=GitLab&message=Airflights%20Clojure%20✈️&color=informational)](https://github.com/jesperancinha/airflights-clojure)
 
 ## Technologies used
 
