@@ -1,7 +1,7 @@
 (ns
   airflights_clojure.run
-  (use ring.adapter.jetty)
-  (require [airflights_clojure.service :as service])
+  (:use ring.adapter.jetty)
+  (:require [airflights_clojure.service :as service])
 
   )
 (defn -main []

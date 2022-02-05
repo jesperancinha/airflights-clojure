@@ -9,7 +9,7 @@
 [![GitHub top language](https://img.shields.io/github/languages/top/jesperancinha/airflights-clojure.svg)](#)
 [![GitHub top language](https://img.shields.io/github/languages/code-size/jesperancinha/airflights-clojure.svg)](#)
 
-## Technologies used
+## Tech Stack
 
 ---
 
@@ -17,25 +17,25 @@
 
 ---
 
-Airflights JE
+## Intro
 
-## Usage
-
-This is a monitoring tool to check the path that any flaying device take and keep of record of their flight in equally timed intervals
+This is a monitoring tool to check the path that any flying device take and keep of record of their flight in equally timed intervals
 
 ## How to run
 
-```
-$ lein run
+```shell
+lein run
 ```
 
-## Notes
+## How to Install
 
-```
-$ lein install
+```shell
+lein install
 
-$ lein repl
+lein repl
 ```
+
+>`lein install` will create a pom.xml. This is why it is ignored in git.
 
 ## Status
 
