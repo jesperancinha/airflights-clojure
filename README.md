@@ -9,6 +9,8 @@
 [![GitHub top language](https://img.shields.io/github/languages/top/jesperancinha/airflights-clojure.svg)](#)
 [![GitHub top language](https://img.shields.io/github/languages/code-size/jesperancinha/airflights-clojure.svg)](#)
 
+[![Renovate](https://github.com/jesperancinha/airflights-clojure/actions/workflows/renovave.yml/badge.svg)](https://github.com/jesperancinha/airflights-clojure/actions/workflows/renovave.yml)
+
 ## Tech Stack
 
 ---
