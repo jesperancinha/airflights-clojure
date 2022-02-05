@@ -1,4 +1,4 @@
-name: Renovate
+name: airflights-clojure-renovate
 on:
   push:
     branches: [ master ]
