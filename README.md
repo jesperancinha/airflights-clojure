@@ -39,6 +39,12 @@ lein repl
 
 >`lein install` will create a pom.xml. This is why it is ignored in git.
 
+## Coverage
+
+```shell
+lein cloverage --lcov
+```
+
 ## Status
 
 ** Under development **
