@@ -55,16 +55,6 @@ lein cloverage --lcov
 
 ** Under development **
 
-## Deploying in Nexus/Maven Central
-
-```shell
-
-```
-
-## References
-
-- [How-to: Clojure libraries on Maven Central](https://www.juxt.pro/blog/maven-central)
-
 ## Buy me a coffee
 
 I hope you enjoyed this repository. If you did, you can optionally please buy me a coffee, which supports me in constantly improve and make new free content regularly for everyone. Thank you so much!
