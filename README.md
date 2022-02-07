@@ -7,7 +7,11 @@
 
 [![airflights-clojure](https://github.com/jesperancinha/airflights-clojure/actions/workflows/clojure.yml/badge.svg)](https://github.com/jesperancinha/airflights-clojure/actions/workflows/clojure.yml)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/140d263c01f845898bb4d092cece108e)](https://www.codacy.com/gh/jesperancinha/airflights-clojure/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jesperancinha/airflights-clojure&amp;utm_campaign=Badge_Grade)
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/140d263c01f845898bb4d092cece108e)](https://www.codacy.com/gh/jesperancinha/airflights-clojure/dashboard?utm_source=github.com&utm_medium=referral&utm_content=jesperancinha/airflights-clojure&utm_campaign=Badge_Coverage)
 [![Coverage Status](https://coveralls.io/repos/github/jesperancinha/airflights-clojure/badge.svg?branch=master)](https://coveralls.io/github/jesperancinha/airflights-clojure?branch=master)
+[![codecov](https://codecov.io/gh/jesperancinha/airflights-clojure/branch/master/graph/badge.svg?token=IAGQCz0YV6)](https://codecov.io/gh/jesperancinha/airflights-clojure)
 
 [![GitHub language count](https://img.shields.io/github/languages/count/jesperancinha/airflights-clojure.svg)](#)
 [![GitHub top language](https://img.shields.io/github/languages/top/jesperancinha/airflights-clojure.svg)](#)
