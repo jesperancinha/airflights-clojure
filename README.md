@@ -7,6 +7,7 @@
 
 [![airflights-clojure](https://github.com/jesperancinha/airflights-clojure/actions/workflows/clojure.yml/badge.svg)](https://github.com/jesperancinha/airflights-clojure/actions/workflows/clojure.yml)
 
+
 [![GitHub language count](https://img.shields.io/github/languages/count/jesperancinha/airflights-clojure.svg)](#)
 [![GitHub top language](https://img.shields.io/github/languages/top/jesperancinha/airflights-clojure.svg)](#)
 [![GitHub top language](https://img.shields.io/github/languages/code-size/jesperancinha/airflights-clojure.svg)](#)
