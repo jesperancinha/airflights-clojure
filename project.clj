@@ -1,4 +1,4 @@
-(defproject test "0.1.0-SNAPSHOT"
+(defproject airflights-clojure "0.1.0-SNAPSHOT"
   :description "Airflight clojure: follow your device flights"
   :main airflights_clojure.run
   :dependencies
