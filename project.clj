@@ -13,4 +13,4 @@
   :repl-options {:init-ns test.core}
   :plugins [
             [lein-cloverage "1.2.2"]
-            [omni-coveragereporter-lein "0.0.0"]])
+            [org.jesperancinha.plugins/omni-coveragereporter-lein "0.0.0"]])
