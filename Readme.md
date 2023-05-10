@@ -17,13 +17,9 @@
 [![GitHub top language](https://img.shields.io/github/languages/top/jesperancinha/airflights-clojure.svg)](#)
 [![GitHub top language](https://img.shields.io/github/languages/code-size/jesperancinha/airflights-clojure.svg)](#)
 
-## Tech Stack
+## Technologies used
 
----
-
-[![alt text](https://raw.githubusercontent.com/jesperancinha/project-signer/master/project-signer-templates/icons-50/clojure-50.png "Clojure")](https://clojure.org/)
-
----
+Please check the [TechStack.md](TechStack.md) file for details.
 
 ## Intro
 
